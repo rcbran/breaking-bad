@@ -2,8 +2,6 @@
 
 Pulling data from the breaking bad api -- https://breakingbadapi.com/documentation
 
-Tutorial from -- https://www.youtube.com/watch?v=YaioUnMw0mo
-
 Character cards flip over to show details upon hover
 
 
