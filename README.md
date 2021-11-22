@@ -1,3 +1,24 @@
+<h1> Breaking Bad React.js App </h1>
+
+Pulling data from the breaking bad api -- https://breakingbadapi.com/documentation
+
+Character cards flip over to show details upon hover
+
+
+![Screenshot 1](/src/img/Screen1.png)
+![Screenshot 2](/src/img/Screen2.png)
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
